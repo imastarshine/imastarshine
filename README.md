@@ -10,18 +10,16 @@ Im making a tools tools that do very specific things
 - 🐍 Python — bots, automation, desktop tools & quick scripts
 - 🌐 Web (html,css,js) — chrome extensions
 - 🎮 Roblox Luau (or Lune) — game logic, UI, systems
-<!--### 💻 Tech Stack:-->
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-## 🛠 What I build:
-- Custom desktop apps to skip daily routine tasks. 
-- Discord/Telegram bots for alerts, scraping, or just messing around.
-- Scripts that track changes on websites so I don’t have to.
-- Roblox projects with focus on UI and gameplay flow. 
-- I work with existing icons to prototype UIs and test ideas in Photoshop.
-## 🧪 Currently tinkering with:
-- Building minimal UIs with Python + Flet.
-- Better way to track Roblox asset changes automatically.
-- Tiny tools that make dev life just a little easier.
+#### tech. stack (on updating readme)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+# 🛠 what im making:
+- Dekstop apps (`Flet` framework)
+- Discord or Telegram bots (`aiogram`, `telebot`). For notify or something else
+- Useful scripts on `Python` or any other language (exmaple: `Lune`) <!-- hyperlink -->
+- Roblox games, UI, useful scripts, modules, or systems
+- Designing something on Photoshop
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imastarshine&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=imastarshine&theme=merko&hide_border=false)<br/>
