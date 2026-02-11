@@ -1,9 +1,9 @@
-# ✨ starshine
+# 👋 hello
 
-Hi, I’m starshine 👋  
-I make small tools that do very specific things — and I love that.
+Im making a tools tools that do very specific things
 
-## 🌐 Socials
+# 🌐 my socials
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gTTEfX6ADQ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shenuwu_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine) 
 
 ## 🧰 Tech I use most:
