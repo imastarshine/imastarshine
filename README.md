@@ -1,32 +1,39 @@
-# 👋 hello
 
-Im making a tools tools that do very specific things
+# Hello
 
-# 🌐 my socials
+... and welcome to my profile.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gTTEfX6ADQ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shenuwu_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine) 
+I'm from 🇷🇺 Russian Federation
 
-## 🧰 technologies that i use
-- 🐍 Python — bots, automation, desktop tools & quick scripts
-- 🌐 Web (html,css,js) — chrome extensions
-- 🎮 Roblox Luau (or Lune) — game logic, UI, systems
-#### tech. stack (on updating readme)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+---
 
-# 🛠 what im making:
-- Dekstop apps (`Flet` framework)
-- Discord or Telegram bots (`aiogram`, `telebot`). For notify or something else
-- Useful scripts on `Python` or any other language (exmaple: `Lune`) <!-- hyperlink -->
-- Roblox games, UI, useful scripts, modules, or systems
-- Designing something on Photoshop
+I'm `Graphic` / `UI Designer` / `Game Designer` | `Roblox Clothing Artist` | `Python & Roblox Developer` | `Web & API Automation Enthusiast`| `Software Developer` 
 
-## 📊 GitHub Stats:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tstarshine?_r=1&_t=ZS-98cmt587tv2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine)
+
+---
+
+I'm making a tools tools that do very specific things
+1. Dekstop apps (`Flet` framework)
+2. Discord or Telegram bots (`aiogram`, `telebot`)
+3. Useful scripts on `Python`, `Luau` or any other programming languages 
+4. Roblox games (Focusing on scripting or project architecture. But in the end, it turns out to be a full stack developer), UI and UI Libraries, modules, or systems
+5. Designing something on Photoshop. Btw, I'm not a PRO in this matter.
+
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=imastarshine&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=imastarshine&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imastarshine&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# ⚒️ Technology stack
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=imastarshine&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 *funny ascii art of serial designation N*
 ```
@@ -64,18 +71,3 @@ Im making a tools tools that do very specific things
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⣷⣿⣿⣿⣷⣿⣬⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
-<!--
-**imastarshine/imastarshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
