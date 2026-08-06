@@ -32,7 +32,7 @@ I'm making a tools tools that do very specific things
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=imastarshine&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=imastarshine)
 
 ---
 
