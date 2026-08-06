@@ -7,7 +7,7 @@ I'm from 🇷🇺 Russian Federation
 
 ---
 
-I'm `Graphic` / `UI Designer` / `Game Designer` | `Roblox Clothing Artist` | `Python & Roblox Developer` | `Web & API Automation Enthusiast`| `Software Developer` 
+I'm `3D Artist` / `UI Designer` / `Game Designer` | `Roblox Clothing Artist` | `Python & Roblox Developer` | `Web & API Automation Enthusiast`| `Software Developer` 
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tstarshine?_r=1&_t=ZS-98cmt587tv2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine)
 
