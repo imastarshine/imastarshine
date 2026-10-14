@@ -6,14 +6,6 @@ I'm from 🇷🇺 Russian Federation.
 
 I'm `3D Artist` / `UI Designer` / `Game Designer` | `Roblox UGC Artist` | `Python & Roblox Developer` | `Web & API Automation Enthusiast`| `Software Developer` 
 
-<div align="left">
-  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tstarshine?_r=1&_t=ZS-98cmt587tv2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/starshine_bio)
-
-![](https://komarev.com/ghpvc/?username=imastarshine)
-
-</div>
-
 I'm making a tools tools that do very specific things
 1. Dekstop apps (`Flet` framework)
 2. Discord or Telegram bots (`aiogram`, `telebot`, `disnake`, `discord.py`)
@@ -32,5 +24,14 @@ I'm making a tools tools that do very specific things
 <div align="center">
   
 ![](https://github-stats-extended.vercel.app/api?username=imastarshine&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=date_night) ![](https://github-stats-extended.vercel.app/api/top-langs?username=imastarshine&langs_count=6&theme=date_night) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imastarshine&theme=date-night&mode=weekly&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+# 🌐 Socials
+<div align="left">
+  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tstarshine?_r=1&_t=ZS-98cmt587tv2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@immastarshine) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/starshine_bio)
+
+![](https://komarev.com/ghpvc/?username=imastarshine)
 
 </div>
