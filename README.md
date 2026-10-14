@@ -29,6 +29,10 @@ I'm making a tools tools that do very specific things
 </div>
 
 # 📊 Stats
+<div align="center">
+  
 ![](https://github-stats-extended.vercel.app/api?username=imastarshine&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=date_night)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs?username=imastarshine&langs_count=6&theme=date_night)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imastarshine&theme=date-night&mode=weekly&hide_border=true)](https://git.io/streak-stats)
+
+</div>
